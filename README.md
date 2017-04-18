@@ -1,12 +1,11 @@
 # Angular Mode
 
-An Emacs package for the Angular Javascript library created by Google
+An Emacs package for the [Angular Javascript library](https://angular.io/) created by Google.
 
-## Roadmap
-- [ ] HTML autocomplete
+## Features Roadmap
+- [ ] HTML auto-complete
 - [ ] HTML language service support
-- [ ] HTML Flycheck support (with the language service)
-- [ ] HTML sytnax highlighting
+- [ ] HTML syntax highlighting
 - [ ] Spacemacs layer
 - [ ] Typescript integration
 - [ ] Yasnippets
